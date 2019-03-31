@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+//#include<bits/stdc++.h>
+#include <iostream>
+
 using namespace std;
 char pec[256][256]={0};
 int main(){
